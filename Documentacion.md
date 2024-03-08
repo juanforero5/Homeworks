@@ -37,3 +37,9 @@ La aplicación debe estar disponible las 24 horas del día, los 7 días de la se
 
 ## RNF - 02
 Debe cumplir con las regulaciones de privacidad de datos para proteger la privacidad de los usuarios.
+
+
+# Prototipo:
+
+![](https://github.com/juanforero5/Homeworks/blob/Entrega-01/Prototipos/P1.png)
+![](https://github.com/juanforero5/Homeworks/blob/Entrega-01/Prototipos/P2.png)
